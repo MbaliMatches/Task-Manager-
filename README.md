@@ -1,5 +1,4 @@
 This is a program for a small business that can help it to manage tasks assigned to each member of the team.
-This is a program for a small business that can help it to manage tasks assigned to each member of the team.
 The data about a task is in this order: 
 - the username of the person to whom the task is assigned 
 - the title of the task 
